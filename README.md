@@ -1,7 +1,7 @@
 # QuantumultX 详细懒人教程
 
 
-**在使用本项目前，请您务必阅读使用规定，您使用本项目即代表您同意并遵守我们的规定。**
+## 在使用本项目前，请您务必阅读使用规定，您使用本项目即代表您同意并遵守我们的规定。
 ***使用规定：***
   1.本项目仅支持中国大陆以外地区使用，您一旦使用本项目即代表您不在中国大陆地区；
   2.遵守您所在国家或地区的法律法规和相关不成文规定，为自己的行为负责；
@@ -45,56 +45,56 @@
       url-latency-benchmark：通过特定地区的服务器标签正则表达式，周期性检测节点延迟，自动选择最佳节点。
     6.根据您的需要，可以自行增加额外的分流规则
 ### 高效重写✅
-		1. Crack GitHub
-			解锁GitHub的高级功能，提升用户体验。
-		2. Modify NetEaseMusic
-			优化网易云音乐体验，解锁部分音乐播放限制。
-		3. Modify Fileball
-			改善Fileball网站的使用体验，提高访问速度和功能可用性。
-		4. Modify Baidu
-			优化百度搜索结果，提升搜索效率和结果的相关性。
-		5. Crack BaiduCloud
-			增强百度云服务的体验，可能包括提高下载速度或绕过某些限制。
-		6. Crack Spotify Premium
-			提供Spotify音乐服务的部分高级功能，改善音乐听歌体验。
-		7. Crack YouTube Premium
-			为YouTube视频服务解锁高级功能，如无广告播放、后台播放等。（已在配置中写入drop 443端口 的udp，来保证规则生效）
-		8. Activate Tiktok
-			解除TikTok的地区限制，访问全球内容。
-		9. Modify TestFlight RegionLimit
-			绕过TestFlight的区域限制，允许下载更多应用进行测试。
-		10. Modify Netflix
-			改进Netflix观看体验。
-		11. Ban HttpDNS
-			阻止HttpDNS服务，增强网络安全性和隐私保护。
-		12. Ban Ads by yfamily
-			屏蔽由yfamily指定的广告源，提供更清洁的浏览体验。
-		13. Modify 12306
-			优化中国铁路客户服务平台12306的使用体验。
-		14. Ban WechatAds
-			屏蔽微信内的广告，包括朋友圈和公众号文章中的广告。
-		15. Ban WeiboAds
-			屏蔽微博内的广告，包括信息流和侧边栏广告。
-		16. Modify ZhiHu
-			改进知乎的浏览体验，可能包括屏蔽广告或优化页面布局。
-		17. Ban Ads by DE
-			使用DivineEngine规则集屏蔽广告，提供广泛的广告屏蔽覆盖。
-		18. Ban Ads by lhie1
-			应用lhie1的规则集屏蔽广告，清理网络环境。
-		19. Redirect by DE
-			使用DivineEngine的规则进行特定请求的重定向，优化网络请求。
-		20. Ban Adsense
-			屏蔽广告联盟的广告。
-		21. Modify apps/lite-programs
-			优化应用和轻量级程序的性能，提升响应速度和用户体验。
-		22. Ban OnScreenAds by MoYu
-			屏蔽开屏广告。
-		23. Ban Ads by DE (AdvertisingPlus)
-			使用DivineEngine的扩展广告屏蔽规则，增强广告拦截能力。
-		24. Ban Ads by fmz200
-			应用fmz200的广告屏蔽规则，针对特定广告源进行屏蔽。
-		25. Ban Ads by yfamily (ultra plus)
-			使用yfamily的超级广告屏蔽规则，针对顽固广告进行拦截。
+	1. Crack GitHub
+		解锁GitHub的高级功能，提升用户体验。
+	2. Modify NetEaseMusic
+		优化网易云音乐体验，解锁部分音乐播放限制。
+	3. Modify Fileball
+		改善Fileball网站的使用体验，提高访问速度和功能可用性。
+	4. Modify Baidu
+		优化百度搜索结果，提升搜索效率和结果的相关性。
+	5. Crack BaiduCloud
+		增强百度云服务的体验，可能包括提高下载速度或绕过某些限制。
+	6. Crack Spotify Premium
+		提供Spotify音乐服务的部分高级功能，改善音乐听歌体验。
+	7. Crack YouTube Premium
+		为YouTube视频服务解锁高级功能，如无广告播放、后台播放等。（已在配置中写入drop 443端口 的udp，来保证规则生效）
+	8. Activate Tiktok
+		解除TikTok的地区限制，访问全球内容。（默认为JP）
+	9. Modify TestFlight RegionLimit
+		绕过TestFlight的区域限制，允许下载更多应用进行测试。
+	10. Modify Netflix
+		改进Netflix观看体验。
+	11. Ban HttpDNS
+		阻止HttpDNS服务，增强网络安全性和隐私保护。
+	12. Ban Ads by yfamily
+		屏蔽由yfamily指定的广告源，提供更清洁的浏览体验。
+	13. Modify 12306
+		优化中国铁路客户服务平台12306的使用体验。
+	14. Ban WechatAds
+		屏蔽微信内的广告，包括朋友圈和公众号文章中的广告。
+	15. Ban WeiboAds
+		屏蔽微博内的广告，包括信息流和侧边栏广告。
+	16. Modify ZhiHu
+		改进知乎的浏览体验，可能包括屏蔽广告或优化页面布局。
+	17. Ban Ads by DE
+		使用DivineEngine规则集屏蔽广告，提供广泛的广告屏蔽覆盖。
+	18. Ban Ads by lhie1
+		应用lhie1的规则集屏蔽广告，清理网络环境。
+	19. Redirect by DE
+		使用DivineEngine的规则进行特定请求的重定向，优化网络请求。
+	20. Ban Adsense
+		屏蔽广告联盟的广告。
+	21. Modify apps/lite-programs
+		优化应用和轻量级程序的性能，提升响应速度和用户体验。
+	22. Ban OnScreenAds by MoYu
+		屏蔽开屏广告。
+	23. Ban Ads by DE (AdvertisingPlus)
+		使用DivineEngine的扩展广告屏蔽规则，增强广告拦截能力。
+	24. Ban Ads by fmz200
+		应用fmz200的广告屏蔽规则，针对特定广告源进行屏蔽。
+	25. Ban Ads by yfamily (ultra plus)
+		使用yfamily的超级广告屏蔽规则，针对顽固广告进行拦截。
     26. 其他高级功能不在这里过多介绍
 
 
