@@ -130,9 +130,6 @@
 
 <p>链接地址为<a href="https://github.com/SparksDelmar/QuantumultX_configs/raw/main/MyConfig.conf">https://github.com/SparksDelmar/QuantumultX_configs/raw/main/MyConfig.conf</a></p>
 
-&nbsp;
-&nbsp;
-&nbsp;
 
 <p align="center">
   <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/5.jpg" width="48%"/>
