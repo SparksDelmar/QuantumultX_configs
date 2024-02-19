@@ -41,7 +41,7 @@
    > 4. 广告屏蔽  
      - 尽可能多的屏蔽广告地址  
      - 尽可能多的屏蔽钓鱼网站、菠菜网站、诈骗网站、病毒网站，全力保障使用者的财产安全  
-     - 尽可能多的屏蔽无良外媒、邪教以及某些伤害中华民族感情的网站
+     - 尽可能多的屏蔽无良外媒、邪教以及某些伤害中华民族感情的网站  
      - 屏蔽iOS系统更新  
      - 不屏蔽正规色情网站 :)  
    > 6. 延迟基准测试  
@@ -108,29 +108,80 @@
 
 ## 使用教程  
 ![Image 1](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/1.jpg)
+
+
 ![Image 2](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/2.jpg)
+
+
 ![Image 3](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/3.jpg)
+
+
 ![Image 4](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/4.jpg)
+
+
+链接地址为https://github.com/SparksDelmar/QuantumultX_configs/raw/main/MyConfig.conf
 ![Image 5](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/5.jpg)
+
+
 ![Image 6](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/6.jpg)
+
+
 ![Image 7](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/7.jpg)
+
+
 ![Image 8](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/8.jpg)
+
+
 ![Image 9](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/9.jpg)
+
+
 ![Image 10](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/10.jpg)
+
+
 ![Image 11](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/11.jpg)
+
+
 ![Image 12](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/12.jpg)
+
+
 ![Image 13](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/13.jpg)
+
+
 ![Image 14](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/14.jpg)
+
+
 ![Image 15](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/15.jpg)
+
+
 ![Image 16](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/16.jpg)
+
+
 ![Image 17](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/17.jpg)
+
+
 ![Image 18](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/18.jpg)
+
+
 ![Image 19](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/19.jpg)
+
+
 ![Image 20](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/20.jpg)
+
+
 ![Image 21](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/21.jpg)
+
+
 ![Image 22](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/22.jpg)
+
+
 ![Image 23](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/23.jpg)
+
+
 ![Image 24](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/24.jpg)
+
+
 ![Image 25](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/25.jpg)
+
+
 ![Image 26](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/26.jpg)
 
