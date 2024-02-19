@@ -107,81 +107,144 @@
 
 
 ## 使用教程  
-![Image 1](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/1.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/1.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/2.jpg" width="48%"/>
+</p>
 
 
-![Image 2](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/2.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 3](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/3.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/3.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/4.jpg" width="48%"/>
+</p>
 
 
-![Image 4](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/4.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p>链接地址为<a href="https://github.com/SparksDelmar/QuantumultX_configs/raw/main/MyConfig.conf">https://github.com/SparksDelmar/QuantumultX_configs/raw/main/MyConfig.conf</a></p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/5.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/6.jpg" width="48%"/>
+</p>
 
 
-链接地址为https://github.com/SparksDelmar/QuantumultX_configs/raw/main/MyConfig.conf
-![Image 5](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/5.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 6](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/6.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/7.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/8.jpg" width="48%"/>
+</p>
 
 
-![Image 7](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/7.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 8](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/8.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/9.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/10.jpg" width="48%"/>
+</p>
 
 
-![Image 9](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/9.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 10](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/10.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/11.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/12.jpg" width="48%"/>
+</p>
 
 
-![Image 11](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/11.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 12](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/12.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/13.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/14.jpg" width="48%"/>
+</p>
 
 
-![Image 13](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/13.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 14](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/14.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/15.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/16.jpg" width="48%"/>
+</p>
 
 
-![Image 15](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/15.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 16](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/16.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/17.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/18.jpg" width="48%"/>
+</p>
 
 
-![Image 17](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/17.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 18](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/18.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/19.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/20.jpg" width="48%"/>
+</p>
 
 
-![Image 19](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/19.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 20](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/20.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/21.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/22.jpg" width="48%"/>
+</p>
 
 
-![Image 21](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/21.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 22](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/22.jpg)
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/23.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/24.jpg" width="48%"/>
+</p>
 
 
-![Image 23](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/23.jpg)
+&nbsp;
+&nbsp;
+&nbsp;
 
 
-![Image 24](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/24.jpg)
-
-
-![Image 25](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/25.jpg)
-
-
-![Image 26](https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/26.jpg)
-
+<p align="center">
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/25.jpg" width="48%"/>
+  <img src="https://github.com/SparksDelmar/QuantumultX_configs/blob/main/res/26.jpg" width="48%"/>
+</p>
